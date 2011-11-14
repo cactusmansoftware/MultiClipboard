@@ -1,0 +1,18 @@
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\bin\Debug\MultiClipboard.exe
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\bin\Debug\MultiClipboard.pdb
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.Form1.resources
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.Properties.Resources.resources
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.exe
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.pdb
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\bin\Debug\MultiClipboard.exe
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\bin\Debug\MultiClipboard.pdb
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.Form1.resources
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.Properties.Resources.resources
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.exe
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Debug\MultiClipboard.pdb

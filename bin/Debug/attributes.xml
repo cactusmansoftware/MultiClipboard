@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MultiClipboard>
+  <row id="0">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="1">
+    <data>reader</data>
+    <locked>False</locked>
+  </row>
+  <row id="2">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="3">
+    <data>asdfsdfer</data>
+    <locked>True</locked>
+  </row>
+  <row id="4">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="5">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="6">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="7">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="8">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+  <row id="9">
+    <data>
+    </data>
+    <locked>False</locked>
+  </row>
+</MultiClipboard>

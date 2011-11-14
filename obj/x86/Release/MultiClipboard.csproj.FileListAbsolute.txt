@@ -1,0 +1,11 @@
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\bin\Release\MultiClipboard.exe
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\bin\Release\MultiClipboard.pdb
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\MultiClipboard.Form1.resources
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\MultiClipboard.Properties.Resources.resources
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\MultiClipboard.exe
+F:\Dev\DOT NET\MultiClipboard\MultiClipboard\obj\x86\Release\MultiClipboard.pdb
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Release\MultiClipboard.exe
+H:\Dev\.Net\MultiClipboard\MultiClipboard\MultiClipboard\obj\x86\Release\MultiClipboard.pdb
